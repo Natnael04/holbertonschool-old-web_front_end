@@ -44,7 +44,7 @@ h6 {
 }
 
 a {
-    color: hotpink;
+    color: var(--text-color)
 }
 .visually-hidden {
     display: none;
