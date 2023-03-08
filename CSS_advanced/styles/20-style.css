@@ -191,8 +191,8 @@ ul.row {
 .footer ul {
     text-align: right;
 }
-.row {
-    content: none;
-    display: table;
+.grid-row {
+    content: normal;
+    display: table-row;
     float: none;
 }
