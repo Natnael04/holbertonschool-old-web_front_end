@@ -149,19 +149,19 @@ a:active {
 
 .nav .nav-item {
     font-family: var(--nav-item-font-family);
-    font-style: var(--nav-item-font-weight);
+    font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
-    text-align: var(--nav-item-letter-spacing);
+    letter-spacing: var(--nav-item-letter-spacing);
     display: var(--nav-item-display);
     margin: var(--nav-item-margin);
 }
 
 .nav .nav-link {
     display: block;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    padding-left: 1%;
+    padding-right: 1%;
 }
 
 .nav .nav-link {
