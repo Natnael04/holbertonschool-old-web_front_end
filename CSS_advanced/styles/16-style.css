@@ -93,9 +93,10 @@ a {
     
 }
 
-
-
-
+.container {
+    width: 960px;
+    margin: auto;
+}
 
 a:link, a:visited {
     font-style: italic;
