@@ -86,7 +86,7 @@ a {
 
 }
 a:link, a:visited {
-    text-decoration: italicize;
+    font-style: italic;
 }
 a:hover {
     text-decoration: underline;
