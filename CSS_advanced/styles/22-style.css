@@ -201,7 +201,7 @@ ul.row {
     display: table;
     clear: both;
 }
-.html[data-section-theme="dark"] {
+[data-section-theme="dark"] {
     --background-color:var(--color-black);
     --text-color:var(--color-white);
     --section-title-color:var(--color-white);
