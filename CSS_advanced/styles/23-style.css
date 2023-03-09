@@ -208,7 +208,7 @@ ul.row {
 }
 
 footer-address {
-    color: var(--text-color);
+    text-color: var(--text-color);
 }
 
 .social-link {
@@ -217,35 +217,4 @@ footer-address {
 }
 .social-link-svg {
     color: var(--text-color);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 }
