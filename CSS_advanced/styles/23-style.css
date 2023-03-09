@@ -207,8 +207,8 @@ ul.row {
     --section-title-color:var(--color-white);
 }
 
-footer-address {
-    text-color: var(--text-color);
+.footer-address {
+    color: var(--text-color);
 }
 
 .social-link {
