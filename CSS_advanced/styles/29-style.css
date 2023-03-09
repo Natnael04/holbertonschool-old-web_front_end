@@ -196,13 +196,6 @@ a:active {
 }
 
 .nav .nav-link {
-    content: empty;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    background-color: var(--color-white);
-    width: 0;
-    height: 20%;
     display: block;
     padding: 0.5rem 1rem;
 }
@@ -304,4 +297,13 @@ ul.row {
     position: var(--header-logo-link-position);
     top: var(--header-logo-link-top);
     left: var(--header-logo-link-left);
+}
+.nav-link:target {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    background-color: var(--color-white);
+    width: 0;
+    height: 20%;
 }
