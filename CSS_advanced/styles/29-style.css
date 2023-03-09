@@ -298,7 +298,7 @@ ul.row {
     top: var(--header-logo-link-top);
     left: var(--header-logo-link-left);
 }
-.nav-link:target {
+.nav-link:past {
     content: "";
     position: absolute;
     top: 0;
