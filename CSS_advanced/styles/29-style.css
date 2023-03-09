@@ -35,7 +35,7 @@
     --nav-item-letter-spacing: 0.04rem;
     --nav-item-display: inline-block;
     --nav-item-margin: 0 0 3rem 0;
-    --nav-item-link-hover: var(--color-primary);
+    --nav-item-link-hover: var(--color-white);
     --section-tagline-margin: 0;
     --text-color:var(--color-white);
     --section-title-color:var(--color-white);
@@ -298,7 +298,7 @@ ul.row {
     top: var(--header-logo-link-top);
     left: var(--header-logo-link-left);
 }
-.nav-link:past {
+.nav .nav-link:past {
     content: "";
     position: absolute;
     top: 0;
