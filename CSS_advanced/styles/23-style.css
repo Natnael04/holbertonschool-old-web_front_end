@@ -216,5 +216,6 @@ ul.row {
     
 }
 .social-link .svg {
+    display: block;
     color:var(--text-color);
 }
